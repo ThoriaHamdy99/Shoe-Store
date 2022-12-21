@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">Shoe_Store</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email_label">Email: </string>
+    <string name="password_label">Password: </string>
+    <string name="login_btn_label">Login</string>
+    <string name="sign_up_btn_label">Sign Up</string>
+    <string name="welcome_text">Welcome </string>
+    <string name="instructions_btn_text">Go to instructions</string>
+    <string name="first_instruction">You can see your shoe list if you pressed the below button.</string>
+    <string name="second_instruction">After that you can press in any shoe list item to see its details.</string>
+    <string name="shoe_list_btn_text">Go to shoe list</string>
+    <string name="add_btn_text">Add a new Shoe</string>
+    <string name="instructions_word">Instructions</string>
+    <string name="shoe_list_word">Shoe List</string>
+    <string name="shoe_details">Shoe Details</string>
+    <string name="here_you_can_find_a_modern_shoes">Here, you can find a modern shoes</string>
+    <string name="name">Name</string>
+    <string name="add_shoe_label">Add Shoe Label</string>
+    <string name="company">Company</string>
+    <string name="size">Size</string>
+    <string name="shoe_size">Shoe Size</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="logout">Logout</string>
+    <string name="shoe_image">Shoe Image</string>
 </resources>

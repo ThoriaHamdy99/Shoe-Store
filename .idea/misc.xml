@@ -6,7 +6,15 @@
         <entry key="..\:/Learning_Android_Kotlin_Udacity/First_Project/Udacity_FWD_First_Project/Shoe_Store/app/src/main/res/drawable-v24/ic_add.xml" value="0.2546875" />
         <entry key="..\:/Learning_Android_Kotlin_Udacity/First_Project/Udacity_FWD_First_Project/Shoe_Store/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2546875" />
         <entry key="..\:/Learning_Android_Kotlin_Udacity/First_Project/Udacity_FWD_First_Project/Shoe_Store/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2546875" />
-        <entry key="..\:/Learning_Android_Kotlin_Udacity/First_Project/Udacity_FWD_First_Project/Shoe_Store/app/src/main/res/layout/activity_main.xml" value="0.2105978260869565" />
+        <entry key="..\:/Learning_Android_Kotlin_Udacity/First_Project/Udacity_FWD_First_Project/Shoe_Store/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Learning_Android_Kotlin_Udacity/First_Project/Udacity_FWD_First_Project/Shoe_Store/app/src/main/res/layout/fragment_instructions.xml" value="0.2105978260869565" />
+        <entry key="..\:/Learning_Android_Kotlin_Udacity/First_Project/Udacity_FWD_First_Project/Shoe_Store/app/src/main/res/layout/fragment_login.xml" value="0.2105978260869565" />
+        <entry key="..\:/Learning_Android_Kotlin_Udacity/First_Project/Udacity_FWD_First_Project/Shoe_Store/app/src/main/res/layout/fragment_shoe_details.xml" value="0.264" />
+        <entry key="..\:/Learning_Android_Kotlin_Udacity/First_Project/Udacity_FWD_First_Project/Shoe_Store/app/src/main/res/layout/fragment_shoe_list.xml" value="0.2105978260869565" />
+        <entry key="..\:/Learning_Android_Kotlin_Udacity/First_Project/Udacity_FWD_First_Project/Shoe_Store/app/src/main/res/layout/fragment_welcom.xml" value="0.176" />
+        <entry key="..\:/Learning_Android_Kotlin_Udacity/First_Project/Udacity_FWD_First_Project/Shoe_Store/app/src/main/res/layout/fragment_welcome.xml" value="0.11927083333333334" />
+        <entry key="..\:/Learning_Android_Kotlin_Udacity/First_Project/Udacity_FWD_First_Project/Shoe_Store/app/src/main/res/layout/shoe_item.xml" value="0.20516304347826086" />
+        <entry key="..\:/Learning_Android_Kotlin_Udacity/First_Project/Udacity_FWD_First_Project/Shoe_Store/app/src/main/res/menu/options_menu.xml" value="0.23854166666666668" />
         <entry key="..\:/Learning_Android_Kotlin_Udacity/First_Project/Udacity_FWD_First_Project/Shoe_Store/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2546875" />
         <entry key="..\:/Learning_Android_Kotlin_Udacity/First_Project/Udacity_FWD_First_Project/Shoe_Store/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2546875" />
       </map>
