@@ -1,7 +1,7 @@
 package com.example.android.shoe_store.models
 
 import android.os.Parcelable
-import kotlinx.parcelize.Parcelize
+import kotlinx.android.parcel.Parcelize
 
 @Parcelize
 data class Shoe(var name: String, var size: Double, var company: String, var description: String,

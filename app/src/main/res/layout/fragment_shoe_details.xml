@@ -9,7 +9,7 @@
             name="shoesModel"
             type="com.example.android.shoe_store.models.Shoe" />
 
-        <import type="com.example.android.shoe_store.models.DoubleConverter" />
+        <import type="com.example.android.shoe_store.models.StringDoubleConverter" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -96,7 +96,7 @@
             android:layout_height="wrap_content"
             android:layout_marginHorizontal="20dp"
             android:hint="@string/shoe_size"
-            android:text="@={DoubleConverter.doubleToString(shoesModel.size)}"
+            android:text="@={StringDoubleConverter.doubleToString(shoesModel.size)}"
             android:textColor="@color/black"
             android:textSize="18sp"
             app:layout_constraintBottom_toBottomOf="@+id/shoe_size_label"
