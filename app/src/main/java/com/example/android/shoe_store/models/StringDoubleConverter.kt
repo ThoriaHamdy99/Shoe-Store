@@ -1,8 +1,9 @@
 package com.example.android.shoe_store.models
 
 import androidx.databinding.InverseMethod
+import java.lang.Double
 
-object DoubleConverter {
+object StringDoubleConverter{
 
     @InverseMethod("stringToDouble")
     @JvmStatic
@@ -11,11 +12,7 @@ object DoubleConverter {
     }
 
     @JvmStatic
-    fun stringToDouble(value: String): Double {
-        return if (value.isNotEmpty()) {
-            value.toDouble()
-        } else {
-            0.0
-        }
+    fun stringToDouble(value: String?): Double {
+        return (value?.toDouble() ?: (0.0).toDouble()) as Double
     }
 }

@@ -6,13 +6,13 @@ import androidx.lifecycle.ViewModel
 import com.example.android.shoe_store.models.Shoe
 
 class ShoeListViewModel : ViewModel() {
-    private lateinit var shoeListMutable: MutableLiveData<List<Shoe>>
+    private var shoeListMutable: MutableLiveData<List<Shoe>> = MutableLiveData()
     private lateinit var mutableList: MutableList<Shoe>
     val shoeListLiveData = shoeListMutable
 
     init {
-        getData()
         initListData()
+        getData()
     }
 
     private fun getData() {
